@@ -4,7 +4,7 @@ Created on Fri Nov  6 12:13:14 2020
 
 @author: shane
 """
-from admin import newest, colclean
+from src.admin import newest, colclean
 import pandas as pd
 import numpy as np
 
