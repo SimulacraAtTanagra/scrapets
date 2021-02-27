@@ -8,10 +8,6 @@
     This project leverages numpy, pandas, fuzzywuzzy.
     
     
-        In order to use this, you'll first need do the following:
-        n
-        
-        
     
     The expected frequency for running this code is {frequency}.
     
