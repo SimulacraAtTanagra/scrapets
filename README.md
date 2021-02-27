@@ -6,6 +6,6 @@
     A legacy time and leave tracking system offered few options for getting complete, complex, output easily. This was the easiest way for met o extract the data and output in a format readable to the payroll coordinator when the legacy system crashed (which was often). it was also integral to our mgiration into our current time and leave system.
     
     This project leverages numpy, pandas, fuzzywuzzy.
-    \n\n
+    /n/n
     The expected frequency for running this code is Weekly.
     
